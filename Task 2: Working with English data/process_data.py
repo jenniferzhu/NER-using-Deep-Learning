@@ -12,7 +12,7 @@ class DataHandler():
 		# Default values
 		self.LEN_NAMED_CLASSES = 5 # 4 names and 1 null class
 		self.NULL_CLASS = "O"
-		self.LEN_WORD_VECTORS = 60
+		self.LEN_WORD_VECTORS = 200
 
 		self.tags = []
 		# string tags mapped to int and one hot vectors 
